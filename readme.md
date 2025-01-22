@@ -38,7 +38,7 @@ The software aspect of DASH involves developing robust applications to integrate
 ## Usage
 
 - The 3D print is available in the `3D_model.zip file`. (inspired by <a href='https://github.com/XRobots/openDogV3'>OpenDogV3</a>)
-- The `/ML` foilder contains the script and the dataset to train the intent determiner
+- The `/ML` folder contains the script and the dataset to train the intent determiner
 - The `/ros` folder contains the ROS2 workspace.
 - The `/dash_app` folder contains the code for the flutter app.
 - The `/Arduino` folder contains the code for the arduinos used for the build.
